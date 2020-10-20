@@ -10,7 +10,7 @@ CNN is very much used in analysing visual imagery. It also helps use to get more
 
 **SGD –** stochastic gradient descent. we have also used SGD optimizer in your model it is used for optimizing an objective function. In this few samples are selected and randomly instead of the whole dataset set for each iteration and with help of this it update the weight and parameter values.
 
-### **3.    Which accuracy metric and why? **
+### **3.    Which accuracy metric and why?**
 
 Accuracy metric is used in your model . It is used for evaluating classification models it creates two local variables total and count that are used to compute the frequency. The best score for classification problem is 100% and we have achieved 86% with your model .
 And also we have confusion matric it is one of the easiest way to measure the performance of a classification problem in this the matrix compare the actual target values with those the predicted by the machine learning model and recall in confusion matrix is the ratio of the relevant result returned by the search engine to the total number of relevant result that could be returned. 
