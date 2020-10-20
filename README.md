@@ -47,6 +47,7 @@ In the training part all images are 1x 48x48 and  real images are different in s
 -	cv2.putText
 -	cv2.imshow
 -	cv2.waitKey
+- cv2.VideoCapture.release
 -	cv2.destroyAllWindows
 
 
