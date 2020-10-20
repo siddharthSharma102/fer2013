@@ -84,6 +84,7 @@ First - Import all libraries and modules that are needed in this project and des
           -- number of classes
           -- size of the image
           -- batch size and more.
+
 Second - Take the dataset which we have selected is fer2013 in kaggle with 7 classes namely -  Angry, Disgust, Fear, Happy, Sad, Surprise and Neutral.
      The training set consists of a total of 28,709 examples. Now import the validation and training data . This model is trained on the training dataset and validation dataset.
           
