@@ -77,6 +77,7 @@ Liberaries of python used in this project:
 - OS
 - Sys
 - OpenCV
+- Pandas
 - Tensorflow / Keras
           
 First - Import all libraries and modules that are needed in this project and describe all              
