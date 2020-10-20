@@ -52,7 +52,13 @@ In the training part all images are 1x 48x48 and  real images are different in s
 
 
 ### **8.    Which dataset have you used?**
-***fer2013.csv[287.13mb]***  with 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
+***fer2013.csv[287.13mb]***  
+
+With 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
+
+This drive link consists of 28710 train set .png files and 3590 test set .png files of seven different emotions.
+
+This fer2013.csv file contains the train and test images of the google drive folder above in the form of a single .csv file as pixels matrices.
 
 **Emotions are:-**
  0 - denotes angry, 
