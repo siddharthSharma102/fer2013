@@ -1,10 +1,10 @@
 # Facial Emotion Detection.
 
-### **1.   Which Neural Network and why.**
+### 1.   Which Neural Network and why.
 **Convolutional Neural Network** is used in our Project.
 CNN is very much used in analysing visual imagery. It also helps use to get more accurate value and it is also very much proved that CNNs is very useful in image recognition and classification each image processes result in vote here after featuring the pixel with every weight connected to every convolutional layer  to get an accurate value with the model.
 
-###**2.    Which optimizer and why.**
+###2.    Which optimizer and why.
 
 **Adam –** Adaptive Moment Estimation.it requires very little memory and it is the one of the most used in gradient descent optimization algorithms.it also update parameters with individual learning rate . and also it is best optimizer and fast then SGD.
 
@@ -50,7 +50,7 @@ In the training part all images are 1x 48x48 and  real images are different in s
 -	cv2.destroyAllWindows
 
 
-###**8.    Which dataset have you used.**##
+###**8.    Which dataset have you used.**
  
 ***fer2013.csv[287.13mb]***  with 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
 
