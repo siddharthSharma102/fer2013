@@ -51,17 +51,16 @@ In the training part all images are 1x 48x48 and  real images are different in s
 
 
 ### **8.    Which dataset have you used.**
- 
 ***fer2013.csv[287.13mb]***  with 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
 
 **Emotions are:-**
- 0 - denotes angry 
- 1 - denotes disgusted 
- 2 - denotes fearful 
- 3 - happy
- 4 -sad
- 5-surprised and
- 5-Neutral
+ 0 - denotes angry, 
+ 1 - denotes disgusted,
+ 2 - denotes fearful,
+ 3 - happy,
+ 4 - sad,
+ 5 - surprised,
+ 5 - Neutral,
 
 
 # **Prerequisites For The Project :**
@@ -71,6 +70,15 @@ To understand this thoroughly you should have some basic knowledge of :
           -- Convolution Neural Network (CNN) 
           -- Numpy
           -- Tensorflow
+
+Liberaries of python used in this project:
+          -- Numpy
+          -- Matplotlib
+          -- OS
+          -- Sys
+          -- OpenCV
+          -- Tensorflow / Keras
+          
 First - Import all libraries and modules that are needed in this project and describe all              
         the values and variables which you have in dataset, i.e. -
           -- number of classes
