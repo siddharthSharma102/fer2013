@@ -74,11 +74,16 @@ To understand this thoroughly you should have some basic knowledge of :
 Liberaries of python used in this project:
 - Numpy
 - Matplotlib
+- Pandas
 - OS
 - Sys
+- Gtts
+- PlaySound
+- Streamlit
+- Threading
 - OpenCV
-- Pandas
 - Tensorflow / Keras
+
           
 First - Import all libraries and modules that are needed in this project and describe all              
         the values and variables which you have in dataset, i.e. -
