@@ -60,7 +60,7 @@ In the training part all images are 1x 48x48 and  real images are different in s
  3 - happy,
  4 - sad,
  5 - surprised,
- 5 - Neutral,
+ 6 - Neutral,
 
 
 # **Prerequisites For The Project :**
