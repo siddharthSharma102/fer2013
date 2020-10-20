@@ -1,16 +1,16 @@
 # Facial Emotion Detection.
  
-### 1.   Which Neural Network and why.
+### 1.   Which Neural Network and why?
 **Convolutional Neural Network** is used in our Project.
 CNN is very much used in analysing visual imagery. It also helps use to get more accurate value and it is also very much proved that CNNs is very useful in image recognition and classification each image processes result in vote here after featuring the pixel with every weight connected to every convolutional layer  to get an accurate value with the model.
 
-### 2.    Which optimizer and why.
+### 2.    Which optimizer and why?
 
 **Adam –** Adaptive Moment Estimation.it requires very little memory and it is the one of the most used in gradient descent optimization algorithms.it also update parameters with individual learning rate . and also it is best optimizer and fast then SGD.
 
 **SGD –** stochastic gradient descent. we have also used SGD optimizer in your model it is used for optimizing an objective function. In this few samples are selected and randomly instead of the whole dataset set for each iteration and with help of this it update the weight and parameter values.
 
-### **3.    Which accuracy metric and why.**
+### **3.    Which accuracy metric and why? **
 
 Accuracy metric is used in your model . It is used for evaluating classification models it creates two local variables total and count that are used to compute the frequency. The best score for classification problem is 100% and we have achieved 86% with your model .
 And also we have confusion matric it is one of the easiest way to measure the performance of a classification problem in this the matrix compare the actual target values with those the predicted by the machine learning model and recall in confusion matrix is the ratio of the relevant result returned by the search engine to the total number of relevant result that could be returned. 
@@ -26,7 +26,7 @@ Having clean data will ultimately increase overall   productivity and allow for 
 
 In the training part all images are 1x 48x48 and  real images are different in size. You must also check the size of the pictures in the dataset and one of them with different size and also you should resize all the images if they are not in the same size to get shape of images  In  this dataset data cleaning was not done because every data is useful and have a certain level of quality and importance so data drop or any other cleaning task are not performed . The data was already a right one for the model so we proceed for the further task on training the model and more.
 
-### **7.    Which functions / features of OpenCV are used .**
+### **7.    Which functions / features of OpenCV are used? **
 
 1- The functions of OpenCV used in Image Detection Part are-
 -	cv2.imread
@@ -51,7 +51,7 @@ In the training part all images are 1x 48x48 and  real images are different in s
 -	cv2.destroyAllWindows
 
 
-### **8.    Which dataset have you used.**
+### **8.    Which dataset have you used? **
 ***fer2013.csv[287.13mb]***  with 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
 
 **Emotions are:-**
