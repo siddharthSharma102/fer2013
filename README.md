@@ -26,7 +26,7 @@ Having clean data will ultimately increase overall   productivity and allow for 
 
 In the training part all images are 1x 48x48 and  real images are different in size. You must also check the size of the pictures in the dataset and one of them with different size and also you should resize all the images if they are not in the same size to get shape of images  In  this dataset data cleaning was not done because every data is useful and have a certain level of quality and importance so data drop or any other cleaning task are not performed . The data was already a right one for the model so we proceed for the further task on training the model and more.
 
-### **7.    Which functions / features of OpenCV are used? **
+### **7.    Which functions / features of OpenCV are used?**
 
 1- The functions of OpenCV used in Image Detection Part are-
 -	cv2.imread
@@ -51,7 +51,7 @@ In the training part all images are 1x 48x48 and  real images are different in s
 -	cv2.destroyAllWindows
 
 
-### **8.    Which dataset have you used? **
+### **8.    Which dataset have you used?**
 ***fer2013.csv[287.13mb]***  with 0 to 6 emotions and 34034 unique values- emotion detection dataset is used here (https://drive.google.com/uc?id=1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr&export=download)
 
 **Emotions are:-**
