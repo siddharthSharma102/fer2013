@@ -1,5 +1,5 @@
 # Facial Emotion Detection.
-
+ 
 ### 1.   Which Neural Network and why.
 **Convolutional Neural Network** is used in our Project.
 CNN is very much used in analysing visual imagery. It also helps use to get more accurate value and it is also very much proved that CNNs is very useful in image recognition and classification each image processes result in vote here after featuring the pixel with every weight connected to every convolutional layer  to get an accurate value with the model.
@@ -98,4 +98,4 @@ Third - Now that we have completed the dataset modification, it's time to implem
 - Dense() 
 - Activation layer
  
-Fourth - Compile and train, now only left to compile and train the model.
+Fourth - Compile and train, now only left to compile and train the model .
