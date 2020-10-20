@@ -65,37 +65,37 @@ In the training part all images are 1x 48x48 and  real images are different in s
 
 # **Prerequisites For The Project :**
 To understand this thoroughly you should have some basic knowledge of :
-          -- Python
-          -- OpenCV
-          -- Convolution Neural Network (CNN) 
-          -- Numpy
-          -- Tensorflow
+          - Python
+          - OpenCV
+          - Convolution Neural Network (CNN) 
+          - Numpy
+          - Tensorflow
 
 Liberaries of python used in this project:
-          -- Numpy
-          -- Matplotlib
-          -- OS
-          -- Sys
-          -- OpenCV
-          -- Tensorflow / Keras
+          - Numpy
+          - Matplotlib
+          - OS
+          - Sys
+          - OpenCV
+          - Tensorflow / Keras
           
 First - Import all libraries and modules that are needed in this project and describe all              
         the values and variables which you have in dataset, i.e. -
-          -- number of classes
-          -- size of the image
-          -- batch size and more.
+          - number of classes
+          - size of the image
+          - batch size and more.
 
 Second - Take the dataset which we have selected is fer2013 in kaggle with 7 classes namely -  Angry, Disgust, Fear, Happy, Sad, Surprise and Neutral.
      The training set consists of a total of 28,709 examples. Now import the validation and training data . This model is trained on the training dataset and validation dataset.
           
 Third - Now that we have completed the dataset modification, it's time to implement CNN network on a sequential model. We have used some of layers from keras -
-          -- Conv2D()
-          -- Activation(activation_type)
-          -- BatchNormalization()
-          -- MaxPooling2D(pool_size, strides, padding, data_format, ****kwargs**)
-          -- Dropout(dropout_value)
-          -- Flatten()
-          -- Dense() 
-          -- Activation layer
+          - Conv2D()
+          - Activation(activation_type)
+          - BatchNormalization()
+          - MaxPooling2D(pool_size, strides, padding, data_format, ****kwargs**)
+          - Dropout(dropout_value)
+          - Flatten()
+          - Dense() 
+          - Activation layer
  
 Fourth - Compile and train, now only left to compile and train the model.
